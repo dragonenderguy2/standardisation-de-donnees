@@ -1,16 +1,1 @@
-{
-  "standards": [
-    {
-      "id": 1,
-      "name": "Standard de Données de Santé",
-      "description": "Un standard pour l'échange sécurisé et interopérable de données de santé entre établissements médicaux.",
-      "format": "JSON"
-    },
-    {
-      "id": 2,
-      "name": "Standard Éducatif",
-      "description": "Normes pour le partage d'informations éducatives.",
-      "format": "XML"
-    }
-  ]
-}
+{"standards":[{"id":1,"name":"Standard de Données de Santé","description":"Un standard pour l'échange sécurisé et interopérable de données de santé entre établissements médicaux.","format":"JSON"},{"id":2,"name":"Standard Éducatif","description":"Normes pour le partage d'informations éducatives.","format":"XML"}]}
