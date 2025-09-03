@@ -1,0 +1,16 @@
+{
+  "standards": [
+    {
+      "id": 1,
+      "name": "Standard de Données de Santé",
+      "description": "Un standard pour l'échange de données de santé entre établissements.",
+      "format": "JSON"
+    },
+    {
+      "id": 2,
+      "name": "Standard Educatif",
+      "description": "Normes pour le partage d'informations éducatives.",
+      "format": "XML"
+    }
+  ]
+}
