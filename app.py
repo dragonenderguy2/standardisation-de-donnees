@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'Bienvenue dans le projet de Standardisation de Données!'
+    return 'Welcome to the Data Standardization Project!'
 
 if __name__ == '__main__':
     app.run(port=5000)
