@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Standard de Données de Santé",
-      "description": "Un standard pour l'échange de données de santé entre établissements.",
+      "description": "Un standard pour l'échange sécurisé de données de santé entre établissements médicalisés.",
       "format": "JSON"
     },
     {
